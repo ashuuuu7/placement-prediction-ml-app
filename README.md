@@ -1,5 +1,6 @@
 # 🎓 Placement Prediction System using Machine Learning
-
+## 🌐 Live Demo
+🚀 [Launch Placement Prediction App](https://YOUR-LINK.streamlit.app)
 ## Overview
 An end-to-end Machine Learning web application that predicts whether a student is likely to get placed based on academic profile, aptitude score, internships, projects, soft skills, and extracurricular activities.
 
